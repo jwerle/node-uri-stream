@@ -1,0 +1,17 @@
+/**
+ * foo bar baz
+ * biz baz bar
+ */
+
+body {
+  display: block;
+  background: green;
+  color: blue;
+}
+
+div {
+  padding: 5px 3px;
+  display: block;
+  border: 2px solid #cecece;
+  margin: 5px;
+}

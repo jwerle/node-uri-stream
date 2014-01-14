@@ -1,0 +1,32 @@
+{
+  "name": "uri-stream",
+  "version": "0.0.1",
+  "description": "Stream contents from a URI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "uri",
+    "stream",
+    "fetch",
+    "request"
+  ],
+  "author": "Joseph Werle",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4",
+    "get-uri": "~0.1.0"
+  },
+  "devDependencies": {
+    "csso": "~1.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jwerle/node-uri-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwerle/node-uri-stream/issues"
+  },
+  "homepage": "https://github.com/jwerle/node-uri-stream"
+}
