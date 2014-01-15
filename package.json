@@ -1,6 +1,6 @@
 {
   "name": "uri-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stream contents from a URI",
   "main": "index.js",
   "scripts": {
